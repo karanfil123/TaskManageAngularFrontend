@@ -1,0 +1,19 @@
+/* CSS dosyanızda tanımlayın veya <style> etiketi içinde kullanın */
+
+.update-link {
+  color: blue; /* Güncelle bağlantısının rengi */
+  text-decoration: none; /* Bağlantı çizgisini kaldırın */
+}
+
+.delete-link {
+  color: red; /* Sil bağlantısının rengi */
+  text-decoration: none; /* Bağlantı çizgisini kaldırın */
+}
+
+.update-icon {
+  margin-right: 5px; /* Güncelle ikonu ile metin arasına boşluk ekleyin (isteğe bağlı) */
+}
+
+.delete-icon {
+  margin-right: 5px; /* Sil ikonu ile metin arasına boşluk ekleyin (isteğe bağlı) */
+}
